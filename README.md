@@ -1,4 +1,4 @@
-﻿# REST
+# REST
 
 REST-сервис для управления задачами (Kotlin + Spring Boot + Reactor + JdbcClient + native SQL).
 
