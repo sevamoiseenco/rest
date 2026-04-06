@@ -1,6 +1,6 @@
 spring:
   application:
-    name: task-manager
+    name: REST
   datasource:
     url: jdbc:h2:mem:tasks;MODE=PostgreSQL;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=FALSE
     username: sa
